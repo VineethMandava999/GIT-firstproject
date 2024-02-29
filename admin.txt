@@ -12,3 +12,5 @@ changed 1 in feature 3
 changed 1 in feature 3 ....new achnage for feature 3
 
 >>>>>>> feature3
+
+from git repo
