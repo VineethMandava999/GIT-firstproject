@@ -5,5 +5,10 @@ i can do what ever i want
 no u cant do beacus u r just an admit ....
 
 
+<<<<<<< HEAD
 changed 1 in feature 3
  changed in mai branch 1
+=======
+changed 1 in feature 3 ....new achnage for feature 3
+
+>>>>>>> feature3
