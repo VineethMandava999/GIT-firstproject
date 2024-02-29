@@ -4,3 +4,4 @@ process the data
 i will add new feature 
 create an avatar for users
 
+log in and log out features
