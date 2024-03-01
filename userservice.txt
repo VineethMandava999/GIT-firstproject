@@ -4,10 +4,3 @@ process the data
 i will add new feature 
 create an avatar for users
 
-log in and log out features
-
-
-two new thing adding in userservice for featiure 3 branch
-
-
-from git repo adding text
