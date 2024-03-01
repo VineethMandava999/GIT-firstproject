@@ -7,7 +7,11 @@ create an avatar for users
 log in and log out features
 
 
+<<<<<<< HEAD
 two new thing adding in userservice for featiure 3 branch
+=======
+one new thing adding in userservice for featiure 3 branch
+>>>>>>> 1fd3632bfbf887e3b0d9d569be08b9036e6228c0
 
 
 from git repo adding text
